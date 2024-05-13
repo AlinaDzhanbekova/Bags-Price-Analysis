@@ -8,3 +8,5 @@
 ____
 ## `Сбор данных`
 > [parcing.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/Parcing.ipynb)
+
+Данные я собирала с помощью requests и selenium, так как для получения необходимой мне информации было необходимо нажать на кнопку на странице товара. Полученные данные я собрала в [таблицу]() 
