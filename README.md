@@ -7,4 +7,4 @@
 
 ____
 ## `Сбор данных`
-> [parcing.ipynb]()
+> [parcing.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/Parcing.ipynb)
