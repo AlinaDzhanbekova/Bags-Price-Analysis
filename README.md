@@ -17,3 +17,10 @@ ____
 > [Предобработка данных.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)
 
 В ходе этого этапа была получена новая обработанная [таблица](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/bags_df_process.csv) 
+
+____
+## Шаг 3. EDA
+В ходе этого этапа я визаулизировала данные по разным признакам, тем самым выявила несколько неожиданных взаимосвязей, натолкнувших меня на идеи по новым признакам.
+> [EDA.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/EDA.ipynb)
+
+Также графики показали мне, что мой датасет стоит подредактировать для более хорошей визуализации и удачной дальнейшей работы. [Отредактированный датасет](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/df_afterEDA.csv) 
