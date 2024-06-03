@@ -28,6 +28,6 @@ ____
 ____
 ## Шаг 4. Создание новых признаков
 В ходе этого этапа были созданы и визуализированы два категориальных признака (метод производства сумки и ценовая категория её бренда) и один бинарный - легендарность сумки
-> [Создание новых признаков.ipynb]()
+> [Создание новых признаков.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%B2.ipynb)
 
 Был получен [отредактированный датасет](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/df_new_factors.csv) 
