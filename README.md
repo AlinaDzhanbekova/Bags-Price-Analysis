@@ -24,3 +24,9 @@ ____
 > [EDA.ipynb](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/EDA.ipynb)
 
 Также графики показали мне, что мой датасет стоит подредактировать для более хорошей визуализации и удачной дальнейшей работы. [Отредактированный датасет](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/df_afterEDA.csv) 
+
+____
+## Шаг 4. Создание новых признаков
+В ходе этого этапа были созданы и визуализированы два категориальных признака (метод производства сумки и ценовая категория её бренда) и один бинарный - легендарность сумки
+> [Создание новых признаков.ipynb]()
+ [Отредактированный датасет](https://github.com/AlinaDzhanbekova/Bags-Price-Analysis/blob/main/df_newfactor.csv) 
